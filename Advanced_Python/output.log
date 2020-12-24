@@ -1,0 +1,9 @@
+DEBUG:root:This is a debug-level log message
+INFO:root:This is an info-level log message
+WARNING:root:This is a warning-level message
+ERROR:root:This is an error-level message
+CRITICAL:root:This is a critical-level message
+INFO:root:Here's a string variable and an int: 10
+12/24/2020 07:01:50 PM: INFO: main Line:22 User:joem@example.com This is an info-level log message
+12/24/2020 07:01:50 PM: WARNING: main Line:23 User:joem@example.com This is a warning-level message
+12/24/2020 07:01:50 PM: DEBUG: anotherFunction Line:9 User:joem@example.com This is a debug-level log message
